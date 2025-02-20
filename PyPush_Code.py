@@ -9,7 +9,7 @@ from io import BytesIO
 st.set_page_config(page_title="PyFlush - Data Cleaning", layout="wide")
 
 # Display Logo
-st.image("PyF_Logo.png", width=200)
+st.image("PyFl_Logo.png", width=200)
 
 # Sidebar Menu
 with st.sidebar:
